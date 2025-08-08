@@ -1,6 +1,12 @@
 {
   "presets": {
-      "1": {"name": "SborakaLite", "zip_url": "https://.../lite.zip"},
-      "2": {"name": "SborakaMax",  "zip_url": "https://.../SborakaMax.zip"}
+    "1": {
+      "name": "SborakaLite",
+      "zip_url": "https://drive.google.com/uc?export=download&id=14pXNwO62T46DRwoLOTINH-uOfm7ZxAZu"
+    },
+    "2": {
+      "name": "SborakaMax",
+      "zip_url": "https://drive.google.com/uc?export=download&id=14gh24uI93asSFwZ5oJaqvgF69jUh_FVt"
+    }
   }
 }
