@@ -1,0 +1,6 @@
+{
+  "presets": {
+      "1": {"name": "SborakaLite", "zip_url": "https://.../lite.zip"},
+      "2": {"name": "SborakaMax",  "zip_url": "https://.../SborakaMax.zip"}
+  }
+}
